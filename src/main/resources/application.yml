@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: mail_delivery
+    name: mail-delivery
 
 eureka:
   client:
